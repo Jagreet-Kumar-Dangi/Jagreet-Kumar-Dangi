@@ -9,8 +9,8 @@
 ## 📊 My GitHub History!
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jagreet-Kumar-Dangi&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jagreet-Kumar-Dangi&layout=compact&theme=dark" height="180"/>
+  <img src="./profile/stats.svg" height="180"/>
+  <img src="./profile/top-langs.svg" height="180"/>
 </p>
 
 ---
