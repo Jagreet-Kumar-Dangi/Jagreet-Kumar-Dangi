@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jagreet Kumar Dangi
+Hi, I'm Jagreet Kumar Dangi
 
 🎓 B.Tech CSE (AI & ML) Student  
 💻 C++ | Java | Python | JavaScript  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagreet-Kumar-Dangi&theme=dark" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,git,github,linux,vscode,tensorflow" />
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Featured Projects
+Featured Projects
 
 | Project | Description |
 |---|---|
@@ -42,13 +42,13 @@
 
 ---
 
-## 📈 Contribution Graph
+ Contribution Graph
 
 [![Jagreet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jagreet-Kumar-Dangi&theme=github-dark)](https://github.com/Jagreet-Kumar-Dangi)
 
 ---
 
-## 🌐 Connect With Me
+Connect With Me
 
 <p align="center">
   <a href="https://github.com/Jagreet-Kumar-Dangi">
